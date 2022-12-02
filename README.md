@@ -1,4 +1,3 @@
-[1669989632496.pdf](https://github.com/Riyasetpenah/-dev-1/files/10141645/1669989632496.pdf)
 !DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,9 +21,10 @@
                 1.Film
             </h2>
                 <ul>
-                    <li><a href="https://www.fullhdfilmizlesene.pw/film/karayip-korsanlari-2-olu-adamin-sandigi-izle-fhd4/" target="_blank">
-                        Karayip korsanları
-                    </a></li>               
+                    <li>
+                        <a href="https://www.fullhdfilmizlesene.pw/film/karayip-korsanlari-2-olu-adamin-sandigi-izle-fhd4/" target="_blank">
+                        Karayip korsanları</a>
+                    </li>               
                 
                     <li>Yüzüklerin Efendisi</li>
                 </ul>
