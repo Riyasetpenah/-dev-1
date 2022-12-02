@@ -13,7 +13,7 @@
         <!-- Deneme -->
         <h2>Hakkımda</h2>
         <!-- Kendimi Tanıttığım Bölüm -->
-        <p>Merhaba,Ben Sedat Zencirkıran 36 yaşındayım.Doğumyeri Gaziantep.Daha önceden elektrik kalite kontrol işi yapıyordum ve şimdi Front-End ile ilgileniyorum.Doğa aşığı birisiyim.Dinlemeyi ve insanlara yardımcı olmayı seviyorum.</p>
+        <p>Merhaba,Ben Sedat Zencirkıran 36 yaşındayım.Doğumyeri Gaziantep.Daha önceden elektrik kalite kontrol işi yapıyordum ve şimdi patika.dev sayesinde Front-End ile ilgileniyorum.Doğa aşığı birisiyim.Dinlemeyi ve insanlara yardımcı olmayı seviyorum.</p>
         <h1>
             ilgi alanlarım
         </h1>
