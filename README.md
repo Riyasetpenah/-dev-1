@@ -24,9 +24,10 @@
                     <li>
                         <a href="https://www.fullhdfilmizlesene.pw/film/karayip-korsanlari-2-olu-adamin-sandigi-izle-fhd4/" target="_blank">
                         Karayip korsanları</a>
-                    </li>               
-                
-                    <li>Yüzüklerin Efendisi</li>
+                    </li>
+                    <li>
+                        Yüzüklerin Efendisi
+                    </li>
                 </ul>
             <h2>
                 2.Dizi
