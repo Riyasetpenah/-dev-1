@@ -1,4 +1,5 @@
-    <body>
+   <html>
+   <body>
     <div>
         <!-- Adım Soyadım -->
         <h1>Sedat Zencirkıran</h1>
@@ -45,3 +46,4 @@
              <H3>Bu sürükleyici suç dizisi; Uluslararası Emmy Ödülleri, Premios Fénix ve Premios Iris'te En İyi Drama ödülünü kazandı.</H3>
     </div>
 </body>
+</html>
