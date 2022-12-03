@@ -1,12 +1,3 @@
-!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ödev 1</title>
-</head>
-<body>
     <div>
         <!-- Adım Soyadım -->
         <h1>Sedat Zencirkıran</h1>
@@ -52,6 +43,3 @@
             <img src="https://www.cumhuriyet.com.tr/Archive/2021/5/16/1836574/kapak_091236.jpg" alt="La casa de papel">
              <H3>Bu sürükleyici suç dizisi; Uluslararası Emmy Ödülleri, Premios Fénix ve Premios Iris'te En İyi Drama ödülünü kazandı.</H3>
     </div>
-
-</body>
-</html>
