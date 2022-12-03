@@ -49,7 +49,7 @@
             <H2> 
                 <strong>La casa de papel</strong>
              </H2>
-            <img="https://www.cumhuriyet.com.tr/haber/la-casa-de-papelin-turkiye-versiyonu-la-hay-de-maske-geliyor-1836574" alt="La casa de papel">
+            <img="https://www.cumhuriyet.com.tr/Archive/2021/5/16/1836574/kapak_091236.jpg" alt="La casa de papel">
              <H3>Bu sürükleyici suç dizisi; Uluslararası Emmy Ödülleri, Premios Fénix ve Premios Iris'te En İyi Drama ödülünü kazandı.</H3>
     </div>
 
